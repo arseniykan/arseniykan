@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arseniykan
 - 👀 I’m interested in Electrical and Industrial Engineering
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Final Project
+- 💞️ I’m looking to collaborate on Kaggle competitions
 - 📫 How to reach me: Telegram - @arseniykan
 
 <!---
